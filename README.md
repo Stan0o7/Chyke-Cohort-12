@@ -1,1 +1,2 @@
 # Double-Project-Cohort12
+In this repo i have created two folders that contains my assigned designs. The folders Irokotv and Takealot are named according to their web address or url and they contains html designs, css, Images and all other font attachments. kindly see all files, review and revert back for futher updates.
